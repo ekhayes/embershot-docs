@@ -61,7 +61,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Embershot Help',
+      title: 'Help',
       logo: {
         alt: 'Embershot',
         src: 'img/logo.svg',
