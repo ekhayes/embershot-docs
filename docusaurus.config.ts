@@ -40,8 +40,6 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           routeBasePath: '/',
-          editUrl:
-            'https://github.com/ekhayes/embershot-docs/tree/main/',
         },
         blog: false,
         theme: {
@@ -76,11 +74,6 @@ const config: Config = {
         {
           href: 'https://embershot.com',
           label: 'embershot.com',
-          position: 'right',
-        },
-        {
-          href: 'https://github.com/ekhayes/embershot-docs',
-          label: 'GitHub',
           position: 'right',
         },
       ],
