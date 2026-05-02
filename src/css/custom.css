@@ -27,16 +27,15 @@
   --ifm-font-weight-semibold: 500;
   --ifm-heading-font-weight: 500;
 
-  /* Body text - matches console's black-54-opacity for paragraphs */
-  --ifm-font-color-base: #1a1a1a;
-  --ifm-color-emphasis-700: rgba(0, 0, 0, 0.7);
-  --ifm-color-emphasis-800: rgba(0, 0, 0, 0.85);
+  /* Body text - dark gray for readability on light bg */
+  --ifm-font-color-base: #1f2937;
+  --ifm-heading-color: #0f172a;
 
   /* Code */
   --ifm-code-font-size: 92%;
   --docusaurus-highlighted-code-line-bg: rgba(96, 184, 186, 0.12);
 
-  /* Brand accents available as utility variables */
+  /* Brand accents */
   --embershot-teal: #60b8ba;
   --embershot-teal-dark: #358c8b;
   --embershot-teal-light: #b8e0e2;
@@ -60,8 +59,13 @@
   --ifm-color-primary-lighter: #80c4c6;
   --ifm-color-primary-lightest: #9ad1d3;
 
-  --ifm-background-color: #1a1a1a;
-  --ifm-background-surface-color: #242424;
+  --ifm-background-color: #161922;
+  --ifm-background-surface-color: #1e2230;
+
+  /* CRITICAL: light text in dark mode (was missing - body was invisible) */
+  --ifm-font-color-base: #e6e8ec;
+  --ifm-heading-color: #ffffff;
+
   --docusaurus-highlighted-code-line-bg: rgba(96, 184, 186, 0.2);
 }
 
@@ -85,8 +89,18 @@ h1 {
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06), 0 2px 8px rgba(0, 0, 0, 0.03);
 }
 
+/* Logo + title spacing - the wordmark logo runs into the title text without this */
+.navbar__brand {
+  gap: 0.5rem;
+}
+.navbar__logo {
+  height: 32px;
+  margin-right: 0.25rem;
+}
 .navbar__title {
   font-weight: 600;
+  color: var(--ifm-color-primary);
+  letter-spacing: 0;
 }
 
 /* Sidebar category headers slightly emphasized */
@@ -120,7 +134,7 @@ h1 {
 
 /* Footer in brand color */
 .footer--dark {
-  background-color: #242424;
+  background-color: #1e2230;
 }
 
 /* Search box accent */
@@ -134,4 +148,103 @@ h1 {
   --ifm-alert-background-color-highlight: rgba(96, 184, 186, 0.15);
   --ifm-alert-foreground-color: var(--embershot-teal-dark);
   --ifm-alert-border-color: var(--embershot-teal);
+}
+
+/* ============================================================
+   Homepage hero + category grid
+   Used by docs/intro.mdx
+   ============================================================ */
+
+.hero-help {
+  background: linear-gradient(135deg, #358c8b 0%, #2c7776 100%);
+  color: #fff;
+  padding: 4rem 1.5rem 3rem;
+  text-align: center;
+  border-radius: 0 0 12px 12px;
+  margin-bottom: 2.5rem;
+}
+
+.hero-help h1 {
+  color: #fff;
+  font-size: 2.4rem;
+  margin: 0 0 0.5rem;
+  font-weight: 600;
+}
+
+.hero-help p {
+  color: rgba(255, 255, 255, 0.92);
+  font-size: 1.1rem;
+  margin: 0;
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.help-search-link {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.75rem 1.5rem;
+  background: rgba(255, 255, 255, 0.15);
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 500;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  transition: background 0.15s ease;
+}
+.help-search-link:hover {
+  background: rgba(255, 255, 255, 0.25);
+  color: #fff;
+  text-decoration: none;
+}
+
+.help-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 0 0 3rem;
+}
+
+.help-card {
+  display: block;
+  padding: 1.25rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 10px;
+  text-decoration: none !important;
+  color: inherit !important;
+  background: var(--ifm-background-surface-color);
+  transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.help-card:hover {
+  border-color: var(--embershot-teal);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(53, 140, 139, 0.12);
+}
+
+.help-card h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.05rem;
+  color: var(--ifm-color-primary);
+  font-weight: 600;
+}
+
+.help-card p {
+  margin: 0;
+  font-size: 0.92rem;
+  color: var(--ifm-font-color-base);
+  opacity: 0.85;
+  line-height: 1.45;
+}
+
+.help-section-title {
+  font-size: 1.5rem;
+  margin: 0 0 1rem;
+  font-weight: 600;
+}
+
+/* Tighten the docs main column so the homepage doesn't feel empty */
+.theme-doc-markdown.markdown {
+  max-width: 1080px;
+  margin: 0 auto;
 }
