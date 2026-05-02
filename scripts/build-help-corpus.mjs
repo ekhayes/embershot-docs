@@ -4,7 +4,10 @@
  * Help Chat. Each article is delimited by a banner that includes title,
  * URL, and category so Claude can cite back to specific docs.
  *
- * Output: dist-corpus/help-corpus.txt (gitignored, regenerated on every run)
+ * Output: static/help-corpus.txt (gitignored, regenerated on every build).
+ * Wired as the `prebuild` npm script so `npm run build` / `npm run deploy`
+ * always emits a fresh corpus into the published Docusaurus site at
+ * https://docs.embershot.com/help-corpus.txt.
  *
  * Run: node scripts/build-help-corpus.mjs
  */
@@ -22,7 +25,7 @@ import { fileURLToPath } from 'node:url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const repoRoot = join(__dirname, '..');
 const docsRoot = join(repoRoot, 'docs');
-const outDir = join(repoRoot, 'dist-corpus');
+const outDir = join(repoRoot, 'static');
 const outPath = join(outDir, 'help-corpus.txt');
 
 const SITE_BASE = 'https://docs.embershot.com';

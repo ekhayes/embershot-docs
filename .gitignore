@@ -22,8 +22,8 @@ yarn-error.log*
 # Auto-update scratch
 scripts/.last-scan-report.md
 
-# Help chat corpus (regenerated on every build/deploy)
-/dist-corpus
+# Help chat corpus (regenerated on every build/deploy by prebuild script)
+/static/help-corpus.txt
 
 # Migration scratch (raw scrape; remove this line if you want to commit the snapshot)
 scraped-content/
