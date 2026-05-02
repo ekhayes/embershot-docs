@@ -1,0 +1,9 @@
+{
+  "label": "Account & Profile",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Account & Profile",
+    "slug": "/account-settings"
+  }
+}

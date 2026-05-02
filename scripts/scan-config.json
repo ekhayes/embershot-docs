@@ -1,0 +1,8 @@
+{
+  "repos": [
+    "https://github.com/embershot/filetrack-api",
+    "https://github.com/embershot/filetrack-console",
+    "https://github.com/embershot/filetrack-viewer"
+  ],
+  "notes": "Update repo URLs to match the actual GitHub locations. The scanner needs read access via GH_TOKEN_FOR_SCAN secret."
+}

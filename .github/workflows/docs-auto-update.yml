@@ -1,0 +1,42 @@
+name: Auto-update docs (weekly scan)
+
+on:
+  schedule:
+    - cron: '0 14 * * 1'  # Mondays 14:00 UTC (10am ET)
+  workflow_dispatch:
+    inputs:
+      since:
+        description: 'Look back window (e.g. 7d, 14d, 1mo)'
+        required: false
+        default: '7d'
+
+jobs:
+  scan:
+    name: Scan recent commits, propose doc updates
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run scanner
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN_FOR_SCAN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SINCE: ${{ inputs.since || '7d' }}
+        run: node scripts/scan-and-propose.mjs
+
+      - name: Open PR with proposed doc changes
+        if: success()
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GH_TOKEN_FOR_SCAN }}
+          branch: docs/auto-update-${{ github.run_number }}
+          title: 'docs: weekly auto-update scan'
+          body-path: scripts/.last-scan-report.md
+          labels: docs, auto-update
+          delete-branch: true

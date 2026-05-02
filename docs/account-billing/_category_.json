@@ -1,0 +1,9 @@
+{
+  "label": "Billing & Subscription",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "Billing & Subscription",
+    "slug": "/account-billing"
+  }
+}
