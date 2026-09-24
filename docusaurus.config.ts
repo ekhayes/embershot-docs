@@ -53,6 +53,25 @@ const config: Config = {
     ],
   ],
 
+  // SI-9061: offline full-text search. The index is generated at build time
+  // (build/search-index*.json), so no Algolia account or external service is
+  // needed. The plugin adds the search box to the top navbar.
+  themes: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        // Docs are served at the site root (routeBasePath '/'), not /docs.
+        docsRouteBasePath: '/',
+        indexDocs: true,
+        indexBlog: false,
+        indexPages: false,
+        hashed: true,
+        language: ['en'],
+        highlightSearchTermsOnTargetPage: true,
+      },
+    ],
+  ],
+
   themeConfig: {
     image: 'img/embershot-social-card.png',
     colorMode: {
