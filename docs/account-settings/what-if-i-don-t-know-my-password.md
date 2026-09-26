@@ -30,3 +30,5 @@ If you have forgotten your password, or were never prompted to create one during
 If you have received a file, but have not set up your password yet, open the email containing the sent file and select the 'View' button. You will be redirected to the login page for Embershot. Click "Forgot?" and set up a new password for your free account.
 
 **Note:** "If you received a file and was not prompted to create a password upon initial login, please DO NOT select the 'Register' button." The system automatically creates an account associated with your email address or mobile number when the file was sent to you. If you try to create another account with the same email you will receive a Duplicate Registration notification.
+
+**If someone shared a file with you as a link:** open the link and enter your email address. If you have never set a password, click 'Email me a link' (or 'First time here? Set your password'). After you set your password you are signed in and the file opens. See ['How to open a file someone shared with you as a link.'](/sharing-and-links/how-to-open-a-file-someone-shared-with-you-as-a-link)

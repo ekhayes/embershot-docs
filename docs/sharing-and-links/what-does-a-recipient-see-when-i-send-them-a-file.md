@@ -40,3 +40,5 @@ The file opens in the viewer.
 **Note:** Users must log in with the exact email address you sent the file to, otherwise they will get a "This file is not available" message if they log in with a different account.
 
 If they have already opened the file: The receiver will be prompted to enter their password and then be redirected to the file. If the user forgot their password they can simply click "Forgot?" to reset their password.
+
+**If you shared a link instead of sending an email:** the recipient opens the link and signs in with the email address you shared with. If they have never set a password, they are offered an email to set one, and the file opens once they are signed in. See ['How to open a file someone shared with you as a link.'](/sharing-and-links/how-to-open-a-file-someone-shared-with-you-as-a-link)
