@@ -28,3 +28,9 @@ description: "How to create a file link"
 When you click to add additional users, the 'Share' panel will popup again. Enter additional user names/emails/group and click 'Update Link' to update.
 
 ![](/img/help/kIe0DxZwCq4X5T5nty5nFedFH-MUSeNx6w-5137d06b62fc.png)
+
+## What people see when they open your link
+
+People you share a link with sign in to Embershot with the email address you entered for them. There is no code to enter. Anyone who has never set an Embershot password is offered an email to set one, and the file opens as soon as they are signed in. Someone who signs in with an address you did not share with is told the file was not shared with them.
+
+See ['How to open a file someone shared with you as a link.'](/sharing-and-links/how-to-open-a-file-someone-shared-with-you-as-a-link)
