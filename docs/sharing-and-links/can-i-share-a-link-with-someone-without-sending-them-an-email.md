@@ -10,3 +10,5 @@ description: "Can I share a link with someone without sending them an email?"
 Click here for instructions on ['How to create a file link.'](/sharing-and-links/how-to-create-a-file-link)
 
 The people you send the link to sign in to Embershot with the email address you shared with; first-timers are offered an email to set their password. See ['How to open a file someone shared with you as a link.'](/sharing-and-links/how-to-open-a-file-someone-shared-with-you-as-a-link)
+
+**Don't know who will open it?** Use a Verified link (anyone who verifies their email with a code) or an Open link (anyone with the link, no sign-in). Nobody needs an Embershot password. See ['How to share a file with a Verified link or an Open link.'](/sharing-and-links/how-to-share-a-file-with-a-verified-or-open-link)

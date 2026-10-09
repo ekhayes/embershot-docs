@@ -9,7 +9,7 @@ description: "What are the differences between Embershot Account types?"
 
 * **Lite** - Free account type. Users can upload and share files with limited security permissions to personal accounts. "Files lite users upload will expire after one week."
 
-* **Pro** - Paid account enabling customization and advanced security permissions. Features include self-destruct functions, device locking, file revocation, SMS multi-factor authentication, and additional security codes. Pro users can [add a "Project" to their account](https://howto.embershot.com/article/352-how-to-add-a-project-to-your-account) and invite other users.
+* **Pro** - Paid account enabling customization and advanced security permissions. Features include self-destruct functions, device locking, file revocation, SMS multi-factor authentication, additional security codes, and [Verified and Open share links](/sharing-and-links/how-to-share-a-file-with-a-verified-or-open-link). Pro users can [add a "Project" to their account](https://howto.embershot.com/article/352-how-to-add-a-project-to-your-account) and invite other users.
 
 * **Enterprise Site Admin** - Organization administrator managing Enterprise Pro Users. Capabilities include creating multiple projects, assigning project admins, and disabling accounts within the organization. Contact [support@embershot.com](mailto:support@embershot.com) for setup details.
 
