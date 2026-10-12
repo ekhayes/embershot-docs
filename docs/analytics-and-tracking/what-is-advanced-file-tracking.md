@@ -7,7 +7,7 @@ description: "What is Advanced File Tracking?"
 ---
 Advanced File Tracking is a feature that Enterprise users can use to gain more insight into how their users are engaging with their content.
 
-Pro users can also upgrade individual files to access the Advanced File Tracking features for a one-time price of $19.99 per file.
+Pro and Lite users can also upgrade individual files to access the Advanced File Tracking features for a one-time price per file: $19.99 for Pro users and project admins, $29.99 for Lite users.
 
 **Highlights**:
 
@@ -24,7 +24,7 @@ Pro users can also upgrade individual files to access the Advanced File Tracking
 
 ![](/img/help/79ujN4j7VroJFcUUchtD_r2wbRNvzUS9fg-6426ae2c3024.png)
 
-**Step 3:** Enter payment information or if a credit card is already on file, click the 'Add' button to approve a one-time charge of $19.99. (*Note: Tracking features will apply to THIS FILE ONLY*.)
+**Step 3:** Enter payment information or if a credit card is already on file, click the 'Add' button to approve the one-time charge ($19.99 for Pro users and project admins, $29.99 for Lite users). (*Note: Tracking features will apply to THIS FILE ONLY*.)
 
 ![](/img/help/DXi44Q4imwkjhT9r0o5hzqa5ZIeL7dy8LQ-291b70dff2c6.png)
 
