@@ -20,16 +20,18 @@ A share link lets people read a document in Embershot's secure viewer without an
 
 **Step 2:** In 'Who can open this file?', choose:
 
-* **Anyone who verifies their email** for a Verified link, or
+* **Anyone with the link who verifies their email** for a Verified link, or
 * **Anyone with the link** for an Open link.
 
-'Specific people' is the usual share by email and works as before.
+'Specific people' is the usual share by email and works as before. For a link you do not enter anyone's email: you send the link yourself.
 
 **Step 3:** Choose when the link expires, or check 'Never Expire' when it is offered.
 
-**Step 4:** Click 'Create Link'. The link is copied to your clipboard. If your browser does not allow it, click 'Copy Link'.
+**Step 4:** Click the 'Create Link' button. The link is copied to your clipboard. If your browser does not allow it, click 'Copy Link'.
 
 Each file can have one Verified link and one Open link. To copy a link you already made, choose the same option again and click 'Copy Link' (the expiry you see is applied to the link).
+
+You can also copy a link from the file's tile: click the link icon next to 'Share'. If the file has more than one link (a Verified link, an Open link, or a 'Specific people' link), the icon opens a menu naming each one.
 
 ## What viewers can and cannot do
 
@@ -40,12 +42,14 @@ Viewers read the file in the secure viewer, on a computer or a phone's web brows
 
 ## See who opened it
 
-Open the file's viewer list. At the top you will see 'Open link enabled' with the number of views, and/or 'Verified link enabled'. People who opened a Verified link are listed by email like your other viewers.
+Open the file's viewer list. At the top you will see 'Open link enabled' with the number of views, and/or 'Verified link enabled' with the number of people who have access through it. People who opened a Verified link are listed by email like your other viewers, with a teal link icon under Permissions.
+
+An Open link counts one view each time someone opens it, however many pages they read.
 
 ## Turn a link off
 
 In the file's viewer list, click 'Revoke' next to 'Open link enabled' or 'Verified link enabled'. The link stops working, and anyone reading the file from it is closed out within about a minute.
 
-To remove one person who opened a Verified link, use the normal actions on their row in the viewer list.
+To remove one person who opened a Verified link, click the teal link icon on their row and choose 'Revoke Verified Link'. The link keeps working for everyone else, and that person cannot use it again.
 
 See ['How to open a Verified link or an Open link'](/sharing-and-links/how-to-open-a-verified-or-open-link) for what your viewers see.
