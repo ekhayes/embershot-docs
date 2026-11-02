@@ -5,7 +5,14 @@ sidebar_position: 6.3
 slug: /sharing-and-links/how-to-send-a-pdf-as-an-embershot-link-from-outlook-or-gmail
 description: "Use the Embershot add-in for Outlook or Gmail, or Embershot link on your iPhone or iPad, to send a PDF as a Verified link instead of an attachment, and see who opened it."
 ---
-The Embershot add-ins for Outlook and Gmail, and "Embershot link" in the Embershot app on iPhone and iPad, send a PDF as an Embershot Verified link instead of an attachment. Everyone on the email (To, Cc and Bcc) can open it with a one-time code sent to their own address, reads a copy watermarked with their email, and can't download or print it. You see who opened it and when. Available with Pro and Enterprise accounts.
+The Embershot add-ins for Outlook and Gmail, and "Embershot link" in the Embershot app on iPhone and iPad, send a PDF as an Embershot Verified link instead of an attachment. Each reader confirms their email with a one-time code, reads a copy watermarked with it, and can't download or print it. You see who opened it and when. Available with Pro and Enterprise accounts.
+
+You choose who can open the link:
+
+* **Anyone with the link, after confirming their email** (the default). Closest to attaching the PDF: anyone you send it to, or who it's forwarded to, can open it, and each of them shows up in who opened it.
+* **Only the people on this email.** Only those addresses get a code. A forwarded link doesn't let anyone else in.
+
+The add-in remembers your last choice.
 
 ## Install the add-in
 
@@ -50,18 +57,16 @@ When your administrator added the add-in for your organization, Outlook also ask
 
 **Step 2:** Choose Embershot in the row of apps. The first time, tap 'Connect to Embershot', sign in and tap 'Allow'.
 
-**Step 3:** Type the email addresses of the people it's for, then tap 'Make Embershot link'.
+**Step 3:** Choose who can open it, type the email addresses of the people it's for (they start your email), then tap 'Make Embershot link'.
 
 **Step 4:** Tap 'Write email' to open a new email with the link and those people already in it, or 'Copy link' to paste it anywhere.
 
 ## Notes
 
-* Only the people on the email when you make the link can open it. If you add someone afterwards, open the add-in again: in Outlook click 'Add new people to the link', in Gmail click 'Add people to the link only'.
-* A forwarded link does not let anyone else in: a person who isn't on the list never gets a code.
+* With **Only the people on this email**, only the people on the email when you make the link can open it. If you add someone afterwards, open the add-in again: in Outlook click 'Add new people to the link', in Gmail click 'Add people to the link only'. A person who isn't on the list never gets a code. These links can have up to 100 people.
 * PDFs only, up to 100 MB.
 * The PDFs you send this way are saved to your Embershot account.
 * To disconnect, click 'Disconnect' in the Outlook add-in, 'Disconnect Embershot' in the Gmail add-on's menu, or 'Disconnect' in Embershot link on your iPhone. Changing your Embershot password or resetting two-step sign-in also disconnects it; connect again afterwards.
-* Up to 100 people per email.
 * If the add-in says links are turned off for your organization, ask your Embershot administrator or write to [support@embershot.com](mailto:support@embershot.com).
 
 See ['How to share a file with a Verified link or an Open link'](/sharing-and-links/how-to-share-a-file-with-a-verified-or-open-link) for more about Verified links.
