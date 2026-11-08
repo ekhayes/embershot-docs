@@ -19,4 +19,6 @@ description: "How to choose a daily, weekly or monthly activity summary email, o
 
 **Step 4:** Under 'Activity summary email,' choose **Daily**, **Weekly**, **Monthly** or **Off**. The change is saved right away.
 
+![The Activity summary email setting with Off, Daily, Weekly and Monthly](/img/help/activity-summary-email-setting.png)
+
 _Tip: the link at the bottom of every activity summary email opens this screen for you._

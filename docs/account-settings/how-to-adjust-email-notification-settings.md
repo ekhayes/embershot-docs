@@ -15,7 +15,7 @@ description: "How to adjust email notification settings"
 
 **Step 3:** Under the 'Notifications' tab on the left, select your preference for receiving notifications.
 
-![](/img/help/KIGUM1wFbOll7aufD0I980CcZJP8haFhDQ-4213b2da3b68.png)
+![Account Settings, Notifications: the notification checkboxes and the Activity summary email setting](/img/help/activity-summary-email-setting.png)
 
 _Note: 'File Complete' notifications are available to Enterprise Account subscribers only._
 
