@@ -50,6 +50,16 @@ You can also ask for the link to stop working after a number of days, from 1 to 
 
 Ask your assistant, for example: "Who opened my Embershot link?" It lists each reader's email, how many times they opened the PDF, when, and how many pages they viewed.
 
+## Disconnect an assistant
+
+**Step 1:** In Embershot on the web, click on the 'Account' icon in the top right and select 'Account Settings'.
+
+**Step 2:** Click 'Connected Apps'. It lists each assistant connected to your account, with where it connected through, when it was connected and when it was last used. Your Embershot add-ins for Outlook, Gmail and iPhone are listed there too.
+
+**Step 3:** Click 'Disconnect' next to the assistant, then 'Disconnect' again to confirm.
+
+The assistant is signed out of your Embershot account straight away. The links it made keep working, and you can connect it again at any time. 'Connected Apps' is in Embershot on the web, not in the iPhone and Android apps.
+
 ## Notes
 
 * PDFs only, up to 100 MB. An upload link takes one PDF and works for 15 minutes; ask the assistant for a new one if it runs out.
@@ -57,7 +67,8 @@ Ask your assistant, for example: "Who opened my Embershot link?" It lists each r
 * A PDF has one link. Asking again for the same PDF gives you the same link.
 * The assistant sees the PDFs and links it made and the ones your Embershot add-ins for Outlook, Gmail and iPhone made, and who opened them. It doesn't see the other files in your account.
 * Use the address exactly as shown above, without "www".
-* To disconnect, remove Embershot from your assistant's connectors. Changing your Embershot password or resetting two-step sign-in ends every connection at once; connect again afterwards.
+* Removing Embershot from your assistant's connectors stops the assistant from using your account, but it can stay signed in on Embershot's side. To be sure it is signed out, disconnect it in 'Connected Apps' as well.
+* Changing your Embershot password or resetting two-step sign-in ends every connection at once; connect again afterwards.
 * If the page says 'Embershot Pro needed', the account you signed in with is a Lite account. If it says links are off for your organization, ask your Embershot administrator or write to [support@embershot.com](mailto:support@embershot.com).
 
 See ['How to share a file with a Verified link or an Open link'](/sharing-and-links/how-to-share-a-file-with-a-verified-or-open-link) for more about Verified links.
