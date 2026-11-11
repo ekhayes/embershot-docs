@@ -21,7 +21,7 @@ The add-in remembers your last choice.
 
 ## Connect the add-in (once)
 
-**Step 1:** Open the add-in: in Outlook, start a new email and click 'Embershot' in the toolbar; in Gmail, start a new email and choose 'Embershot link' from the add-on icons at the bottom of the draft.
+**Step 1:** Open the add-in: in Outlook, start a new email and click 'Embershot' in the toolbar; in Gmail, start a new email, click the three dots ('More options') at the bottom of the draft and choose 'Embershot link'.
 
 **Step 2:** Click 'Connect to Embershot'. A window opens.
 
@@ -43,7 +43,7 @@ When your administrator added the add-in for your organization, Outlook also ask
 
 **Step 1:** Add the people you're sending to.
 
-**Step 2:** Choose 'Embershot link' from the add-on icons at the bottom of the draft.
+**Step 2:** Click the three dots ('More options') at the bottom of the draft and choose 'Embershot link'.
 
 **Step 3:** Pick a PDF you sent before, or click 'Upload a PDF', choose the file and close the upload window when it's done.
 
