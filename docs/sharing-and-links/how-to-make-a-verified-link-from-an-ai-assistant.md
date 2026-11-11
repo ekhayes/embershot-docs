@@ -56,6 +56,8 @@ Ask your assistant, for example: "Who opened my Embershot link?" It lists each r
 
 **Step 2:** Click 'Connected Apps'. It lists each assistant connected to your account, with where it connected through, when it was connected and when it was last used. Your Embershot add-ins for Outlook, Gmail and iPhone are listed there too.
 
+![Account Settings, Connected Apps: a connected app with its Disconnect button](/img/help/account-settings-connected-apps.png)
+
 **Step 3:** Click 'Disconnect' next to the assistant, then 'Disconnect' again to confirm.
 
 The assistant is signed out of your Embershot account straight away. The links it made keep working, and you can connect it again at any time. 'Connected Apps' is in Embershot on the web, not in the iPhone and Android apps.
