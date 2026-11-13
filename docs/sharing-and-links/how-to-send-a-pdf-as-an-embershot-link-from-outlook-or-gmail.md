@@ -3,9 +3,9 @@ id: how-to-send-a-pdf-as-an-embershot-link-from-outlook-or-gmail
 title: "How to send a PDF as an Embershot link from Outlook, Gmail or your iPhone"
 sidebar_position: 6.3
 slug: /sharing-and-links/how-to-send-a-pdf-as-an-embershot-link-from-outlook-or-gmail
-description: "Use the Embershot add-in for Outlook or Gmail, or Embershot link on your iPhone or iPad, to send a PDF as a Verified link instead of an attachment, and see who opened it."
+description: "Use the Embershot add-in for Outlook or Gmail, or Embershot link on your iPhone or iPad, to send a PDF as a share link instead of an attachment, and see who opened it."
 ---
-The Embershot add-ins for Outlook and Gmail, and "Embershot link" in the Embershot app on iPhone and iPad, send a PDF as an Embershot Verified link instead of an attachment. Each reader confirms their email with a one-time code, reads a copy watermarked with it, and can't download or print it. You see who opened it and when. Available with Pro and Enterprise accounts.
+The Embershot add-ins for Outlook and Gmail, and "Embershot link" in the Embershot app on iPhone and iPad, send a PDF as an Embershot share link instead of an attachment. Each reader confirms their email with a one-time code, reads a copy watermarked with it, and can't download or print it. You see who opened it and when. Available with Pro and Enterprise accounts.
 
 You choose who can open the link:
 
@@ -69,4 +69,4 @@ When your administrator added the add-in for your organization, Outlook also ask
 * To disconnect, click 'Disconnect' in the Outlook add-in, 'Disconnect Embershot' in the Gmail add-on's menu, or 'Disconnect' in Embershot link on your iPhone. Changing your Embershot password or resetting two-step sign-in also disconnects it; connect again afterwards.
 * If the add-in says links are turned off for your organization, ask your Embershot administrator or write to [support@embershot.com](mailto:support@embershot.com).
 
-See ['How to share a file with a Verified link or an Open link'](/sharing-and-links/how-to-share-a-file-with-a-verified-or-open-link) for more about Verified links.
+See ['How to share a file with a share link'](/sharing-and-links/how-to-share-a-file-with-a-verified-or-open-link) for more about share links.
