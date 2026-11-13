@@ -7,7 +7,7 @@ description: "Does a user have to log in to Embershot to see a file?"
 ---
 No, the sender can set the recipients' login requirements to allow viewing without a password and/or include a PDF to the email notification.
 
-Pro accounts can also share a document with a **Verified link** (viewers enter a code emailed to them) or an **Open link** (no sign-in at all). See ['How to share a file with a Verified link or an Open link.'](/sharing-and-links/how-to-share-a-file-with-a-verified-or-open-link)
+Pro accounts can also share a document with a **share link** (viewers enter a code emailed to them) or an **Open link** (no sign-in at all). See ['How to share a file with a share link.'](/sharing-and-links/how-to-share-a-file-with-a-verified-or-open-link)
 
 When a file is sent to a user, the sender has 2 options:
 
