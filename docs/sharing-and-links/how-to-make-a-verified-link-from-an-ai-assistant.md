@@ -1,11 +1,11 @@
 ---
 id: how-to-make-a-verified-link-from-an-ai-assistant
-title: "How to make a Verified link from an AI assistant"
+title: "How to make a share link from an AI assistant"
 sidebar_position: 6.4
 slug: /sharing-and-links/how-to-make-a-verified-link-from-an-ai-assistant
-description: "Connect your Embershot account to an AI assistant such as Claude, then ask it to turn a PDF into an Embershot Verified link and to tell you who opened it."
+description: "Connect your Embershot account to an AI assistant such as Claude, then ask it to turn a PDF into an Embershot share link and to tell you who opened it."
 ---
-Connect your Embershot account to an AI assistant, such as Claude, and you can ask it to turn a PDF into an Embershot Verified link. Each reader confirms their email with a one-time code, reads a copy watermarked with it, and can't download or print it. You can also ask the assistant who opened the link. Available with Pro and Enterprise accounts.
+Connect your Embershot account to an AI assistant, such as Claude, and you can ask it to turn a PDF into an Embershot share link. Each reader confirms their email with a one-time code, reads a copy watermarked with it, and can't download or print it. You can also ask the assistant who opened the link. Available with Pro and Enterprise accounts.
 
 ## Connect your assistant (once)
 
@@ -23,9 +23,9 @@ In Claude Code, run `claude mcp add --transport http embershot https://embershot
 
 ![](/img/help/ai-assistant-connect-allow.png)
 
-## Make a Verified link
+## Make a share link
 
-**Step 1:** Ask your assistant, for example: "Make an Embershot verified link for this PDF."
+**Step 1:** Ask your assistant, for example: "Make an Embershot share link for this PDF."
 
 **Step 2:** The assistant gives you an upload link. Open it, click 'Choose File', pick the PDF and click 'Upload'.
 
@@ -42,7 +42,7 @@ An assistant that works with the files on your computer, such as Claude Code, up
 Say what you want when you ask:
 
 * **Anyone with the link, after confirming their email** (the default). Anyone you send it to, or who it's forwarded to, can open it, and each of them shows up in who opened it.
-* **Only people you name.** For example: "Make a verified link for this PDF that only alex@example.com and sam@example.com can open." Only those addresses get a code. A forwarded link doesn't let anyone else in. To add someone later, ask the assistant to add them to the link.
+* **Only people you name.** For example: "Make a share link for this PDF that only alex@example.com and sam@example.com can open." Only those addresses get a code. A forwarded link doesn't let anyone else in. To add someone later, ask the assistant to add them to the link.
 
 You can also ask for the link to stop working after a number of days, from 1 to 365. Otherwise it doesn't expire.
 
@@ -73,4 +73,4 @@ The assistant is signed out of your Embershot account straight away. The links i
 * Changing your Embershot password or resetting two-step sign-in ends every connection at once; connect again afterwards.
 * If the page says 'Embershot Pro needed', the account you signed in with is a Lite account. If it says links are off for your organization, ask your Embershot administrator or write to [support@embershot.com](mailto:support@embershot.com).
 
-See ['How to share a file with a Verified link or an Open link'](/sharing-and-links/how-to-share-a-file-with-a-verified-or-open-link) for more about Verified links.
+See ['How to share a file with a share link'](/sharing-and-links/how-to-share-a-file-with-a-verified-or-open-link) for more about share links.
