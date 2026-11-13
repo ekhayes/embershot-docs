@@ -15,9 +15,9 @@ description: "How to adjust email notification settings"
 
 **Step 3:** Under the 'Notifications' tab on the left, select your preference for receiving notifications.
 
-![](/img/help/KIGUM1wFbOll7aufD0I980CcZJP8haFhDQ-4213b2da3b68.png)
+![Account Settings, Notifications: the notification checkboxes and the Activity summary email setting](/img/help/activity-summary-email-setting.png)
 
-_Note: Notifications for 'Files Completed' and 'Daily Digest' are available to Enterprise Account subscribers only._
+_Note: 'File Complete' notifications are available to Enterprise Account subscribers only._
 
 ## Notification Definitions:
 
@@ -29,8 +29,8 @@ _Note: if you turn off your notifications, other admins on the project may still
 
 **File Complete** - These are email notifications that let you know when a recipient has completed reading/viewing/listening to a file.
 
-**Daily Digest** - These are emails that come at 9 pm PST with a summary of all the activity that happened in your account, or in projects that you are admins on.
+**Activity summary email** - A summary of what happened to the files you shared: who opened them and when, who downloaded or printed them, and who has not opened them yet. Choose **Daily**, **Weekly** (the default), **Monthly** or **Off**. It is sent at 9 pm Pacific time (weekly on Sundays, monthly on the last day of the month), and only when something happened.
 
-**Advanced File Tracking Daily Summary** - These are emails that come at 9 pm PST with a summary of all the activity that happened in your files that have been upgraded to receive Advanced File Tracking analytics.
+For files with [Advanced File Tracking](/analytics-and-tracking/what-is-advanced-file-tracking) (included with Enterprise accounts), the summary also shows how long each person spent reading and how many pages they read.
 
 **New Device Sign-In** - These are email notifications that inform you each time your account is accessed.
