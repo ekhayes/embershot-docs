@@ -1,9 +1,9 @@
 ---
 id: 73000522235
-title: "How to turn off the Daily Digest feature"
+title: "How to change or turn off the activity summary email"
 sidebar_position: 6
 slug: /account-settings/how-to-turn-off-the-daily-digest-feature
-description: "How to turn off the Daily Digest feature"
+description: "How to choose a daily, weekly or monthly activity summary email, or turn it off"
 ---
 **Step 1:** Click on the Account icon in the top right.
 
@@ -17,6 +17,8 @@ description: "How to turn off the Daily Digest feature"
 
 ![](/img/help/ObUS_UisHaKHDHBHWOzdRtKTloKnoBRUZg-76d57da7319d.png)
 
-**Step 4:** Unselect the checkbox next to 'Daily Digest.'
+**Step 4:** Under 'Activity summary email,' choose **Daily**, **Weekly**, **Monthly** or **Off**. The change is saved right away.
 
-![](/img/help/9G9BlPzXBCIPWeC2ecCw5jqy7Grmy0POEA-04bad852cfa8.png)
+![The Activity summary email setting with Off, Daily, Weekly and Monthly](/img/help/activity-summary-email-setting.png)
+
+_Tip: the link at the bottom of every activity summary email opens this screen for you._

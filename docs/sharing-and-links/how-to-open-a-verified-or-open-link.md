@@ -1,9 +1,9 @@
 ---
 id: how-to-open-a-verified-or-open-link
-title: "How to open a Verified link or an Open link"
+title: "How to open an Embershot share link"
 sidebar_position: 6.6
 slug: /sharing-and-links/how-to-open-a-verified-or-open-link
-description: "Opening an Embershot link that starts with embershot.com/v/ - with an emailed code (Verified link) or with one click (Open link)."
+description: "Opening an Embershot link that starts with embershot.com/v/ - with an emailed code (share link) or with one click (Open link)."
 ---
 These links start with **embershot.com/v/**. You do not need an Embershot account or password, and you only see the one file that was shared.
 
@@ -11,7 +11,7 @@ These links start with **embershot.com/v/**. You do not need an Embershot accoun
 
 Click the link, then click 'View File'.
 
-## Verified link
+## Share link
 
 **Step 1:** Click the link and enter your email address. Click 'Continue'.
 
@@ -25,7 +25,7 @@ The first time you open a file this way you may see "Preparing your copy" for a 
 
 On the same browser you will not need a new code again for 7 days, or until the link expires.
 
-**Already signed in to Embershot?** A Verified link opens the file in your account with no code.
+**Already signed in to Embershot?** A share link opens the file in your account with no code.
 
 ## Closing the file
 
