@@ -24,7 +24,7 @@ description: "Enterprise Site Admins can see every Embershot link their organiza
 
 * A reader marked with the forward icon was not on the email the link went out in: the person they got it from passed it on.
 * "Not on the original email" is known for links whose recipients Embershot was told: the mail relay always sends them; the add-ins send the people on the email when the link goes in, so someone added to the email afterwards shows as not on it.
-* The same mark appears in a file's Viewers list, next to people who opened it through a share link.
+* The same mark appears in a file's Viewers list, next to people who opened it through a safe share.
 * Only Enterprise Site Admins see this page. Questions: [support@embershot.com](mailto:support@embershot.com).
 
 See ['How to choose how your organization's attachments become links'](/enterprise/how-to-set-outbound-link-settings-for-your-organization) for the settings.

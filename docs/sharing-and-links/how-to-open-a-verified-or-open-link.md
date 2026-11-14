@@ -1,17 +1,17 @@
 ---
 id: how-to-open-a-verified-or-open-link
-title: "How to open an Embershot share link"
+title: "How to open an Embershot link"
 sidebar_position: 6.6
 slug: /sharing-and-links/how-to-open-a-verified-or-open-link
-description: "Opening an Embershot link that starts with embershot.com/v/ - with an emailed code (share link) or with one click (Open link)."
+description: "Opening an Embershot link that starts with embershot.com/v/ - with an emailed code or with one click."
 ---
 These links start with **embershot.com/v/**. You do not need an Embershot account or password, and you only see the one file that was shared.
 
-## Open link
+## A link that opens with one click
 
 Click the link, then click 'View File'.
 
-## Share link
+## A link that asks for your email
 
 **Step 1:** Click the link and enter your email address. Click 'Continue'.
 
@@ -25,7 +25,7 @@ The first time you open a file this way you may see "Preparing your copy of this
 
 On the same browser you will not need a new code again for 7 days, or until the link expires.
 
-**Already signed in to Embershot?** A share link opens the file in your account with no code.
+**Already signed in to Embershot?** A link that asks for your email opens the file in your account with no code.
 
 ## Closing the file
 
@@ -39,4 +39,4 @@ When you close the file you return to the link's page. Click 'View File' to open
 * **"You no longer have access to this file":** you were removed as a viewer. Ask the person who shared it.
 * **"This file was shared with your Embershot account. Sign in to open it":** the file was already shared with your email directly. Click 'Sign In' and sign in with that address.
 * **The code email never arrived:** check your spam or junk folder. See ['My emails are going into my spam box.'](/troubleshooting/my-emails-are-going-into-my-spam-box)
-* **"This view ended because a screenshot was taken":** on an Open link a detected screenshot ends the view. Click 'View File' to open it again.
+* **"This view ended because a screenshot was taken":** on a one-click link a detected screenshot ends the view. Click 'View File' to open it again.
