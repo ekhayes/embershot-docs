@@ -11,4 +11,4 @@ Click here for instructions on ['How to create a file link.'](/sharing-and-links
 
 The people you send the link to sign in to Embershot with the email address you shared with; first-timers are offered an email to set their password. See ['How to open a file someone shared with you as a link.'](/sharing-and-links/how-to-open-a-file-someone-shared-with-you-as-a-link)
 
-**Don't know who will open it?** Use a share link (anyone who verifies their email with a code) or an Open link (anyone with the link, no sign-in). Nobody needs an Embershot password. See ['How to share a file with a share link.'](/sharing-and-links/how-to-share-a-file-with-a-verified-or-open-link)
+**Don't know who will open it?** Use a safe share (anyone who confirms their email with a code) or an Open link (anyone with the link, no sign-in). Nobody needs an Embershot password. See ['How to share a file with a safe share or an Open link.'](/sharing-and-links/how-to-share-a-file-with-a-verified-or-open-link)
