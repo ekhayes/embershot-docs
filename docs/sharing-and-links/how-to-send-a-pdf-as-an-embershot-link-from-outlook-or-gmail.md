@@ -37,8 +37,6 @@ The add-in remembers your last choice.
 
 **Step 4:** Send the email.
 
-When your administrator added the add-in for your organization, Outlook also asks, as you send an email with a PDF attached, whether to send it as an Embershot link. Choose 'Use Embershot', or send it as an attachment. You can turn this question off in the add-in.
-
 ## Send a PDF from Gmail
 
 **Step 1:** Add the people you're sending to.
