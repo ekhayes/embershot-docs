@@ -25,17 +25,21 @@ In Claude Code, run `claude mcp add --transport http embershot https://embershot
 
 ## Make a share link
 
-**Step 1:** Ask your assistant, for example: "Make an Embershot share link for this PDF."
+**Step 1:** Ask your assistant, for example: "Make an Embershot share link for a PDF."
 
-**Step 2:** The assistant gives you an upload link. Open it, click 'Choose File', pick the PDF and click 'Upload'.
+**Step 2:** An Embershot upload box appears in the conversation. Click 'Choose File', pick the file and click 'Upload'.
 
-![](/img/help/ai-assistant-upload-a-pdf.png)
-
-**Step 3:** Go back to the assistant and tell it the PDF is uploaded. It answers with the link.
+**Step 3:** When the upload finishes, the assistant makes the link and gives it to you.
 
 **Step 4:** Send the link any way you like. Embershot doesn't email it to anyone.
 
-An assistant that works with the files on your computer, such as Claude Code, uploads the PDF itself, so you skip steps 2 and 3.
+An assistant that works with the files on your computer, such as Claude Code, uploads the file itself, so you skip step 2.
+
+### If no upload box appears
+
+Some assistants can't show the upload box. The assistant gives you an upload link instead. Open it, click 'Choose File', pick the file and click 'Upload', then go back to the assistant and tell it the file is uploaded. It answers with the link.
+
+![](/img/help/ai-assistant-upload-a-pdf.png)
 
 ## Choose who can open it
 
@@ -64,8 +68,8 @@ The assistant is signed out of your Embershot account straight away. The links i
 
 ## Notes
 
-* PDFs only, up to 100 MB. An upload link takes one PDF and works for 15 minutes; ask the assistant for a new one if it runs out.
-* The upload page sends the PDF from your browser straight to your Embershot account.
+* PDF, Word, Excel, PowerPoint, .txt, .rtf or a photo, up to 100 MB. An upload box or upload link takes one file and works for 15 minutes; ask the assistant for a new one if it runs out.
+* The upload box and the upload page send the file from your browser straight to your Embershot account, not through the assistant.
 * A PDF has one link. Asking again for the same PDF gives you the same link.
 * The assistant sees the PDFs and links it made and the ones your Embershot add-ins for Outlook, Gmail and iPhone made, and who opened them. It doesn't see the other files in your account.
 * Use the address exactly as shown above, without "www".
