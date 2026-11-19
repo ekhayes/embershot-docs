@@ -3,9 +3,9 @@ id: how-to-make-a-verified-link-from-an-ai-assistant
 title: "How to make a share link from an AI assistant"
 sidebar_position: 6.4
 slug: /sharing-and-links/how-to-make-a-verified-link-from-an-ai-assistant
-description: "Connect your Embershot account to an AI assistant such as Claude, then ask it to turn a PDF into an Embershot share link and to tell you who opened it."
+description: "Connect your Embershot account to an AI assistant such as Claude, then ask it to turn a PDF into an Embershot share link, tell you who opened it, and turn the link off or delete the file."
 ---
-Connect your Embershot account to an AI assistant, such as Claude, and you can ask it to turn a PDF into an Embershot share link. Each reader confirms their email with a one-time code, reads a copy watermarked with it, and can't download or print it. You can also ask the assistant who opened the link. Available with Pro and Enterprise accounts.
+Connect your Embershot account to an AI assistant, such as Claude, and you can ask it to turn a PDF into an Embershot share link. Each reader confirms their email with a one-time code, reads a copy watermarked with it, and can't download or print it. You can also ask the assistant who opened the link, turn the link off or delete the file. Available with Pro and Enterprise accounts.
 
 ## Connect your assistant (once)
 
@@ -53,6 +53,15 @@ You can also ask for the link to stop working after a number of days, from 1 to 
 ## See who opened it
 
 Ask your assistant, for example: "Who opened my Embershot link?" It lists each reader's email, how many times they opened the PDF, when, and how many pages they viewed.
+
+## Turn off a link or delete a file
+
+Ask your assistant, for example:
+
+* "Turn off my Q3 report Embershot link." The link stops working straight away, and anyone reading it is closed within a minute. The PDF stays in your account; ask for a new link if you need one, and it gets a new address.
+* "Delete the Q3 report from Embershot." Every link to the PDF stops working, and the PDF moves to the trash in Embershot, as when you delete it there. You can restore it from the trash, but its old links stay off.
+
+Embershot tells your assistant to check with you before it does either.
 
 ## Disconnect an assistant
 
