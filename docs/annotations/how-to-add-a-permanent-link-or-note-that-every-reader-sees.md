@@ -12,11 +12,12 @@ A Permanent annotation stays on the page for everyone who opens the file: people
 
 **Step 2:** Click the annotation to open its settings.
 
-**Step 3:** Turn on 'Permanent'. The lock icon closes.
+**Step 3:** Turn on 'Permanent'. The annotation's settings now say 'Permanent', with a lock. A new link starts as Permanent already, so for a link you can skip steps 2 and 3.
 
 ## Notes
 
 * Readers can click a permanent link, and it opens in a new tab. They cannot move, change or delete a permanent annotation, and it stays on the page even if they turn 'Show Annotations' off.
 * To make every new annotation permanent, set 'Default Annotations' to 'Permanent'. See ['How to set your annotations to default to Public, Private or Permanent'](/annotations/how-to-set-your-annotations-to-default-to-public-private-or-permanent).
+* Without 'Permanent', other readers only see your annotation when the file's Notes setting is 'Shared', and people who open the file from a share link never see it.
 * To take a permanent annotation off every reader's page, delete it.
 * Permanent annotations work on documents, not on video or audio files.
