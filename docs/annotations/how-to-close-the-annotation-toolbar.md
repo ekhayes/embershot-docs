@@ -8,3 +8,5 @@ description: "How to close the Annotation Toolbar"
 Click on the orange "X" to close the toolbar.
 
 ![](/img/help/39H5BCGwGP1FLfEcY64WD6_N7xTaHd6cUA-f8b7b932f6a7.png)
+
+You can also press **Esc** on your keyboard to put the current annotation tool down.
