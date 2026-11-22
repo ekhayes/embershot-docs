@@ -14,3 +14,5 @@ description: "How to set your annotations to default to Public, Private or Perma
 ![](/img/help/7HZkeepi6-vGA8Igq4J6tcECQ3jK6yY2_g-046561a780ef.png)
 
 **Note:** This setting adjusts the "Default" only. To modify settings on an existing annotation, click on the annotation and adjust the setting directly.
+
+**Note:** 'Permanent' is offered to the file's owner. Permanent annotations, including links, are seen by everyone who opens the file, including people who open it from a share link. See ['How to add a permanent link or note that every reader sees'](/annotations/how-to-add-a-permanent-link-or-note-that-every-reader-sees).

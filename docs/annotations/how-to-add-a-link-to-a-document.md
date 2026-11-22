@@ -16,3 +16,5 @@ description: "How to add a link to a document"
 **Step 3:** Enter the URL in the text field and hit "Save"
 
 ![](/img/help/N3OErnVOBD8_AbFu0QtpsOUa5s8W9sdD_w-4118c34d8e50.png)
+
+**Note:** File admins can make a link Permanent so every reader sees it and can click it, including people who open the file from a share link. See ['How to add a permanent link or note that every reader sees'](/annotations/how-to-add-a-permanent-link-or-note-that-every-reader-sees).
