@@ -12,7 +12,7 @@ A Permanent annotation stays on the page for everyone who opens the file: people
 
 **Step 2:** Click the annotation to open its settings.
 
-**Step 3:** Turn on 'Permanent'. The annotation's settings now say 'Permanent', with a lock. A new link starts as Permanent already, so for a link you can skip steps 2 and 3.
+**Step 3:** Turn on 'Permanent'. The annotation's settings now say 'Permanent', with a lock. A new link starts as Permanent already, and so does a text box once you give it a web address, so for those you can skip steps 2 and 3. See ['Make your own text a link'](/annotations/how-to-add-a-link-to-a-document#make-your-own-text-a-link).
 
 ## Notes
 
