@@ -11,4 +11,6 @@ description: "How to hide an annotation from other users"
 
 **Step 2:** From the dropdown, make sure the 'Private' toggle is on (orange).
 
+**Note:** The 'Private' toggle only appears where the file's project allows annotation sharing. Everywhere else your annotations are already private, so there is nothing to switch. See ['How to turn annotation sharing on or off for a project'](/annotations/how-to-turn-annotation-sharing-on-or-off-for-a-project).
+
 ![](/img/help/6Ie-jbX14Fz8MxNIuLvJ36Nk2UYdLEEAAg-cc0793bcb1c5.png)
