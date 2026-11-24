@@ -18,6 +18,6 @@ A Permanent annotation stays on the page for everyone who opens the file: people
 
 * Readers can click a permanent link, and it opens in a new tab. They cannot move, change or delete a permanent annotation, and it stays on the page even if they turn 'Show Annotations' off.
 * To make every new annotation permanent, set 'Default Annotations' to 'Permanent'. See ['How to set your annotations to default to Shared, Private or Permanent'](/annotations/how-to-set-your-annotations-to-default-to-public-private-or-permanent).
-* Without 'Permanent', other readers only see your annotation when the file's Notes setting is 'Shared', and people who open the file from a share link never see it.
+* Without 'Permanent', other readers only see your annotation when it is 'Shared', which needs the file's project to allow annotation sharing. People who open the file from a share link never see it. See ['How to turn annotation sharing on or off for a project'](/annotations/how-to-turn-annotation-sharing-on-or-off-for-a-project).
 * To take a permanent annotation off every reader's page, delete it.
 * Permanent annotations work on documents, not on video or audio files.
