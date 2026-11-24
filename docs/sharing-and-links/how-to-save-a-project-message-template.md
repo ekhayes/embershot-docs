@@ -23,6 +23,12 @@ Your email signature is not saved with the template; it is added under the messa
 
 When a project has templates, a 'Message template' list appears to the right of 'Message:' in the Share Panel. Pick a template and it fills the message. You can still edit the message before you send it.
 
+**A template titled 'Default'**
+
+If the project has a template titled 'Default', the Share Panel picks it and fills the message as soon as it opens. A template titled 'Default - ' followed by a file's name is picked instead when you share that file.
+
+Files that had a default file message before templates arrived kept it this way: the message became a template titled 'Default - <file name>' (or 'Default' when every file in the project had the same message).
+
 **To change a template**
 
 Pick the template, edit the message, click 'Save Message Template' and save it under the same title. The template is replaced for every admin of the project.
@@ -31,4 +37,4 @@ Pick the template, edit the message, click 'Save Message Template' and save it u
 
 Pick the template, click 'Delete Template' and confirm. It is deleted for every admin of the project. The message you are writing stays as it is.
 
-*Note: Message templates are for project admins. Other people who share files in the project don't see them. For a message that fills in automatically for one file, see [How to create a default file message template](/sharing-and-links/how-to-create-a-default-file-message-template).*
+*Note: Message templates are for project admins. Other people who share files in the project don't see them.*
