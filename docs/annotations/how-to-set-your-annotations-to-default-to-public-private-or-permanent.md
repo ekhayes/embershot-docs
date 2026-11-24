@@ -13,7 +13,7 @@ description: "How to set your annotations to default to Shared, Private or Perma
 
 ![](/img/help/7HZkeepi6-vGA8Igq4J6tcECQ3jK6yY2_g-046561a780ef.png)
 
-**Note:** 'Shared' annotations are seen by the file's other readers when the file's Notes setting is 'Shared'. 'Private' ones only by you. (This choice was called 'Public' before.)
+**Note:** 'Shared' annotations are seen by the file's other readers, and 'Shared' is only offered where the file's project allows annotation sharing. 'Private' ones are seen only by you. (This choice was called 'Public' before.) See ['How to turn annotation sharing on or off for a project'](/annotations/how-to-turn-annotation-sharing-on-or-off-for-a-project).
 
 **Note:** This setting adjusts the "Default" only. To modify settings on an existing annotation, click on the annotation and adjust the setting directly.
 

@@ -17,4 +17,4 @@ description: "How to view other users' annotations"
 
 ![](/img/help/8vDArxoFLHm_VIvCckNzGNfgJRVF58gaEg-a71e06bf0753.jpeg)
 
-**Note:** "You can only view other user's 'shared' annotations when the file is set to 'Notes: Shared'"
+**Note:** You can only view other users' 'Shared' annotations when the file's project allows annotation sharing. See ['How to turn annotation sharing on or off for a project'](/annotations/how-to-turn-annotation-sharing-on-or-off-for-a-project).
