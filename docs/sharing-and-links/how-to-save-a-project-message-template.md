@@ -27,4 +27,8 @@ When a project has templates, a 'Message template' list appears to the right of 
 
 Pick the template, edit the message, click 'Save Message Template' and save it under the same title. The template is replaced for every admin of the project.
 
+**To delete a template**
+
+Pick the template, click 'Delete Template' and confirm. It is deleted for every admin of the project. The message you are writing stays as it is.
+
 *Note: Message templates are for project admins. Other people who share files in the project don't see them. For a message that fills in automatically for one file, see [How to create a default file message template](/sharing-and-links/how-to-create-a-default-file-message-template).*
