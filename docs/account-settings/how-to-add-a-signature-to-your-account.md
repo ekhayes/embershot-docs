@@ -21,4 +21,6 @@ description: "How to add a signature to your account"
 
 *Note: This signature shows up in the email message and pop-up box before the user opens the document.*
 
+*To save a whole message for a project and pick it when sharing, see [How to save a project message template](/sharing-and-links/how-to-save-a-project-message-template).*
+
 ![](/img/help/r44-t8i2p0xs1knkqzT8n_LkVR3rNBdNbA-539df59c954e.png)

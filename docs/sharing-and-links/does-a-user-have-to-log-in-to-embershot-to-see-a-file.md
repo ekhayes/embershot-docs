@@ -15,10 +15,12 @@ When a file is sent to a user, the sender has 2 options:
 
 ![](/img/help/kfxMhO-OOZjnFcQEm3JE3QmFhrAqrh9uGQ-daec8e4d7d7e.png)
 
-**Option 2:** Attach a PDF file to the email notification that users received. To do this select "Allow Print/Download"
+**Option 2:** Attach a PDF file to the email notification that users received. To do this uncheck "Require Password" and select "Allow Print/Download"
 
 ![](/img/help/KCnMpFTHluWKM1e6p0PQ8O1UtBmmCRQtnw-9c8af7abd708.png)
 
-Then select the checkbox to 'Include PDF Download' and click 'Send.'
+The 'Include PDF Download' checkbox then appears under the message. Select it and click 'Send.'
+
+*Note: 'Include PDF Download' only appears when the share can include a download: no password, no text message authentication, not locked to one device and no self destruct.*
 
 ![](/img/help/VRcNsP0NhuHy-qW9y0fDiBx1v4GVGkBBWQ-1ce93f820d2d.png)
