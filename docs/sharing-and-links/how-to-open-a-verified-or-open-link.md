@@ -17,11 +17,11 @@ Click the link, then click 'View File'.
 
 **Step 2:** Check your email for a message from Embershot Support with the subject "123456 is your Embershot code" (your code will be different).
 
-**Step 3:** Enter the code and click 'Verify'. The file opens.
+**Step 3:** Enter the code and click 'Verify and view'. The file opens.
 
-*Notes: The code works for 30 minutes and only for this file. After five wrong tries you are asked to request a new one. If no code arrives, use the 'click here' link under the code box to try again.*
+*Notes: The code works for 30 minutes and only for this file. After five wrong tries you are asked to request a new one. If no code arrives, click 'Send a new code' under the code box, or 'Use a different email' to change the address.*
 
-The first time you open a file this way you may see "Preparing your copy of this file..." for a few seconds while Embershot adds your watermark.
+The first time you open a file this way you may see "Preparing your copy" for a few seconds while Embershot adds your watermark. Click 'Email me when it's ready' if you would rather not wait.
 
 On the same browser you will not need a new code again for 7 days, or until the link expires.
 
